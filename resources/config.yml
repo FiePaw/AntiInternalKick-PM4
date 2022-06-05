@@ -1,0 +1,13 @@
+# Should the error throwed in the consle?
+throw-error: true
+
+# Should the player get a message?
+send-message: true
+# Provide a message
+message: '§cYou got an "Internal server Error"!'
+
+
+# Should the player get a title?
+send-title: false
+# Provide a title
+title: "§4Error"

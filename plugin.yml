@@ -1,0 +1,6 @@
+name: AntiInternalKickPM4
+version: 2
+api: 4.0.0
+main: FiePaw\AntiInternalKick\Main
+author: FiePaw
+description: 'A Plugin for PMMP to prevent players that they will kicked for "Internal server Error"'
